@@ -1,0 +1,6 @@
+[5:04 p. m., 23/5/2022] Marco Progra: De logica fueron 3 puntos
+[5:04 p. m., 23/5/2022] Marco Progra: En el primero nos daban la descripción de un programa basico (vendedores con sus ventas totals, gerente de zona y gerente de ventas)
+[5:05 p. m., 23/5/2022] Marco Progra: Tenias que armar el diagrama y esciribir la funcion para calcularVentTotales (por zona y en total) y el vendedor con mas ventas (por zona y en total)
+[5:05 p. m., 23/5/2022] Marco Progra: Y decir cual es el O() de cada función
+[5:06 p. m., 23/5/2022] Marco Progra: El segundo describia el comportamiento de una funcion y tenias que justificar si se podia hacer en O(n)
+[5:06 p. m., 23/5/2022] Marco Progra: Y el tercero es pareceido a los ultimos de la guia de complejidad
